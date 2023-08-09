@@ -18,6 +18,7 @@ public class EquipotresB {
         // TODO code application logic here
         //HOLA!!
         //Hola buenas
+        System.out.println("Holaaa");
     }
     
 }
